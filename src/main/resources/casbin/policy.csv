@@ -1,0 +1,4 @@
+p, salesperson, /url1/*, GET
+p, packer, /url2/suburl1, POST
+p, picker, /url3/suburl1, GET
+p, manager, /url4, (GET)|(POST)
